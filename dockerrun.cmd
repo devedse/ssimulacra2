@@ -1,0 +1,1 @@
+docker run -it --rm -v C:/XGitPrivate/ssimulacra2/testvideos:/videos -v C:/XGitPrivate/ssimulacra2/frameoutput:/tmp  video-comparison "/videos/original.mp4" "/videos/converted.mkv"
